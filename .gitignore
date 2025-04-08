@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Debug and build folders
+dist/
+build/
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+
+# Optional: coverage reports (if using testing tools)
+coverage/
+
+package-lock.json
